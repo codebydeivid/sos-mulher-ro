@@ -1,3 +1,7 @@
+# Nomes: Ana Carolina, Ana Beatriz, Deivid Henrique, Matheus Henrique, Rhondisson Juan
+# Curso: 2ºB Informática
+# Disciplina: Programação Orientada a Objeto
+
 from datetime import datetime, date
 
 from classes.vitima import Vitima
